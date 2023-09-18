@@ -24,5 +24,6 @@ Stretch goals:
 ## License
 
 dashcel project is licensed under the Apache License, Version 2.0 (c) 2023.
+
 See the [LICENSE](/LICENSE) for information on the history of this software, terms & conditions for usage, and a DISCLAIMER OF ALL WARRANTIES. 
 All trademarks referenced herein are property of their respective holders.
