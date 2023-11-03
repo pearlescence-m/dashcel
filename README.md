@@ -2,6 +2,8 @@
 
 **dashcel** is a cross-platform desktop application for automatic Excel-to-Python dashboard conversion. 
 
+![demo](public/image.png)
+
 The primary philosophy when designing this tool was to reduce the amount of manual work that is spent in every organization on converting existing data flows and reports in Excel to a more interactive and automatically updated dashboards in Python. This project is a work in progress and the roadmap of the new features is listed in the Updates section below.
 
 ## Updates
